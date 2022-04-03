@@ -8,7 +8,6 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/spinload.css" />
@@ -41,7 +40,7 @@
         <header>
           <h2 id="text3">Đức thích tui không nào?</h2>
           <h4 id="text4">
-            Nếu cậu không trả lời mà thoát ra tức là muốn làm ... tui rùi đó nha :v
+            <333
           </h4>
         </header>
         <button id="yes" type="button" class="btn btn-danger btn-lg">
